@@ -40,4 +40,6 @@ Islam Beltagy and Waleed Ammar
 
 ## Acknowledgement
 
+We thank Abdel-rahman Mohamed for the insightful discussions. 
+
 All experiments were run on the machines of the Computer Science Department, The University of Texas at Austin
